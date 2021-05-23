@@ -11,7 +11,7 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-sudo rm -rf /
+something cool will be here soon
 ```
 
 ## Usage
