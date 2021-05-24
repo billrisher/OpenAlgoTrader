@@ -4,7 +4,7 @@
 <img width="128" height="128" src="oat.png">
 </p>
 
-#### An open-source algorithmic trading platform written in C++
+#### An open-source algorithmic trading platform written in Rust
 
 ## Installation
 
