@@ -1,0 +1,2 @@
+[workspace]
+members = ["oat_lib", "oat_main"]
