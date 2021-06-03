@@ -6,12 +6,18 @@
 
 #### An open-source algorithmic trading platform written in Rust
 
+## Intro
+
+OpenAlgoTrader, or OAT, is designed to be an asynchronous platform for algorithmic trading, allowing users to employ multiple strategies at once. By following the Pub/Sub model of messaging, we're able to modularize different aspects of strategies and allow them to be reused by other strategies with very little increase in required computing power.
+
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+OAT is written in Rust, meaning that it uses `cargo`. Building and running the project is extremely straightforward.
+
 
 ```bash
-something cool will be here soon
+cargo build
+cargo run
 ```
 
 ## Usage
@@ -19,8 +25,8 @@ something cool will be here soon
 ```Eventually there'll be some robust documentation here.```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for information regarding contribution to OAT.
 
-Please make sure to update tests as appropriate.
+---
 
-<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<div align="center" style="font-size:12px;">Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
